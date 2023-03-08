@@ -1,0 +1,25 @@
+{
+   "title":"[Gosaiji] Graduation Reward",
+   "description":"",
+   "author":"Gosaiji",
+   "artist":"Gosaiji",
+   "cover":"https://i.imgur.com/zaRAeDm.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/4hRycxF"
+         },
+         "last_updated":1624606143,
+         "title":"Graduation Reward",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/132pACi"
+         },
+         "last_updated":1624606143,
+         "title":"Graduation Reward ~fin~",
+         "volume":"2"         
+      }
+   }
+}
