@@ -1,0 +1,33 @@
+{
+   "title":"[Gosaiji] Sweet Ambiguity",
+   "description":"",
+   "author":"Gosaiji",
+   "artist":"Gosaiji",
+   "cover":"https://i.imgur.com/YbOl8SL.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/eu1PVFd"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet Ambiguity  Part 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/csF2oCX"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet Ambiguity  Part 2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/F0DwdXI"
+         },
+         "last_updated":1624606143,
+         "title":"Sweet Ambiguity -After-",
+         "volume":"3"         
+      }
+   }
+}
